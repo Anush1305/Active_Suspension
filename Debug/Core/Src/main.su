@@ -1,0 +1,10 @@
+../Core/Src/main.c:52:6:Motor_Stop	8	static
+../Core/Src/main.c:58:6:Motor_Extend	8	static
+../Core/Src/main.c:64:6:Motor_Retract	8	static
+../Core/Src/main.c:71:5:main	40	static
+../Core/Src/main.c:178:6:SystemClock_Config	120	static
+../Core/Src/main.c:215:13:MX_ADC1_Init	48	static
+../Core/Src/main.c:260:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:287:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:311:6:MPU_Config	24	static
+../Core/Src/main.c:333:6:Error_Handler	4	static,ignoring_inline_asm
